@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServlet;
 
 public class ActionServlet extends HttpServlet {
 
-	private static final long serialVersionUID = 10L;
+	private static final long serialVersionUID = 1L;
 	
 	@Override
 	public void init() throws ServletException {
